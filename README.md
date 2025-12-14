@@ -1,0 +1,1 @@
+# fault-aware-scan-chain-coverage
