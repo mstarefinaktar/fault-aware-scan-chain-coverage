@@ -124,6 +124,21 @@ Icarus Verilog (iverilog, vvp)
 
 Windows or Linux
 
+Python (fault_sweep.py)
+        |
+        v
++------------------+
+| Icarus Verilog   |
+|  - Golden TB     |
+|  - Faulty TB     |
++------------------+
+        |
+        v
+ SO Comparison
+        |
+        v
+ Fault Coverage Report
+
 🎯 Learning Outcomes
 
 Understand scan-chain fault behavior
