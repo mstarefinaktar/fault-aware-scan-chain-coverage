@@ -1,0 +1,25 @@
+{
+  "chain_length": 8,
+  "total_faults": 16,
+  "detected_faults": [
+    "q[7]_SA0",
+    "q[7]_SA1"
+  ],
+  "undetected_faults": [
+    "q[0]_SA0",
+    "q[0]_SA1",
+    "q[1]_SA0",
+    "q[1]_SA1",
+    "q[2]_SA0",
+    "q[2]_SA1",
+    "q[3]_SA0",
+    "q[3]_SA1",
+    "q[4]_SA0",
+    "q[4]_SA1",
+    "q[5]_SA0",
+    "q[5]_SA1",
+    "q[6]_SA0",
+    "q[6]_SA1"
+  ],
+  "coverage_percent": 12.5
+}
